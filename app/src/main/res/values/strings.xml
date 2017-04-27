@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apartment</string>
+    <string name="app_name_full">Thành viên</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu ?</string>
+    <string name="register_acc">Đăng ký tài khoản</string>
+</resources>
